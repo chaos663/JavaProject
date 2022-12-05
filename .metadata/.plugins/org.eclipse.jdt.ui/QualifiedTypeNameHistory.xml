@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="org.omg.CORBA.PRIVATE_MEMBER"/>
+<fullyQualifiedTypeName name="javax.lang.model.element.VariableElement"/>
+<fullyQualifiedTypeName name="java.lang.invoke.ConstantCallSite"/>
+<fullyQualifiedTypeName name="org.honey.javatutorials.numberstring.String"/>
+<fullyQualifiedTypeName name="org.honey.javatutorials.variables.IntergerDemo"/>
+<fullyQualifiedTypeName name="org.honey.javatutorials.variables.DoubleDemo"/>
 <fullyQualifiedTypeName name="java.lang.String"/>
 </qualifiedTypeNameHistroy>
