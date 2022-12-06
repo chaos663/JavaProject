@@ -1,4 +1,4 @@
-package second;
+package variable_lecture;
 
 public class BinaryTest {
 
