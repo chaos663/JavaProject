@@ -6,10 +6,17 @@
 <fullyQualifiedTypeName name="org.honey.javatutorials.numberstring.String"/>
 <fullyQualifiedTypeName name="org.honey.javatutorials.variables.IntergerDemo"/>
 <fullyQualifiedTypeName name="org.honey.javatutorials.variables.DoubleDemo"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="second.VariableEx2"/>
-<fullyQualifiedTypeName name="assignment_lecture.ifExample1"/>
 <fullyQualifiedTypeName name="assignment_lecture.SwitchCase"/>
 <fullyQualifiedTypeName name="javax.print.attribute.standard.Media"/>
 <fullyQualifiedTypeName name="assignment_lecture.SwitchCase2"/>
+<fullyQualifiedTypeName name="org.omg.CosNaming.NamingContextExtPackage.AddressHelper"/>
+<fullyQualifiedTypeName name="object_lecture.Student"/>
+<fullyQualifiedTypeName name="reference_lecture.Circle"/>
+<fullyQualifiedTypeName name="reference_lecture.Point"/>
+<fullyQualifiedTypeName name="reference_lecture.Students"/>
+<fullyQualifiedTypeName name="reference_lecture.Subjects"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="hiding_lecture.BirthDay"/>
+<fullyQualifiedTypeName name="assignment_lecture.ifExample1"/>
 </qualifiedTypeNameHistroy>
