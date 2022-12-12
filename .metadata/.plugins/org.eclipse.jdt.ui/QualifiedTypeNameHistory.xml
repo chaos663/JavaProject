@@ -16,7 +16,13 @@
 <fullyQualifiedTypeName name="reference_lecture.Point"/>
 <fullyQualifiedTypeName name="reference_lecture.Students"/>
 <fullyQualifiedTypeName name="reference_lecture.Subjects"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="hiding_lecture.BirthDay"/>
 <fullyQualifiedTypeName name="assignment_lecture.ifExample1"/>
+<fullyQualifiedTypeName name="thisex.ThisExample.Birthday"/>
+<fullyQualifiedTypeName name="thisex.Person"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="cooperation.Student"/>
+<fullyQualifiedTypeName name="cooperation.Bus"/>
+<fullyQualifiedTypeName name="cooperation.Subway"/>
+<fullyQualifiedTypeName name="cooperation.Taxi"/>
 </qualifiedTypeNameHistroy>
