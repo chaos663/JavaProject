@@ -12,6 +12,8 @@
 	<section name="JavaElementSearchActions">
 	</section>
 	<section name="completion_proposal_size">
+		<item key="size.x" value="652"/>
+		<item key="size.y" value="383"/>
 	</section>
 	<section name="quick_assist_proposal_size">
 	</section>
