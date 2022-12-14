@@ -26,4 +26,7 @@
 <fullyQualifiedTypeName name="cooperation.Subway"/>
 <fullyQualifiedTypeName name="cooperation.Taxi"/>
 <fullyQualifiedTypeName name="staticex.Student"/>
+<fullyQualifiedTypeName name="singletonex.Company"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="java.lang.Number"/>
 </qualifiedTypeNameHistroy>
