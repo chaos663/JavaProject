@@ -20,7 +20,6 @@
 <fullyQualifiedTypeName name="assignment_lecture.ifExample1"/>
 <fullyQualifiedTypeName name="thisex.ThisExample.Birthday"/>
 <fullyQualifiedTypeName name="thisex.Person"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="cooperation.Student"/>
 <fullyQualifiedTypeName name="cooperation.Bus"/>
 <fullyQualifiedTypeName name="cooperation.Subway"/>
@@ -29,4 +28,8 @@
 <fullyQualifiedTypeName name="singletonex.Company"/>
 <fullyQualifiedTypeName name="java.util.Calendar"/>
 <fullyQualifiedTypeName name="java.lang.Number"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="array.Book"/>
+<fullyQualifiedTypeName name="array.BookArray"/>
+<fullyQualifiedTypeName name="javax.swing.text.StyledEditorKit.ForegroundAction"/>
 </qualifiedTypeNameHistroy>
