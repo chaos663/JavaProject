@@ -2,7 +2,7 @@ package inheritance;
 
 public class Circle {
 
-	// »ó¼ÓÇÒ ¶§´Â extend keyword »ç¿ëÇÏ¸é µÈ´Ù.
+	// ìƒì†í•  ë•ŒëŠ” extend keyword ì‚¬ìš©í•˜ë©´ ëœë‹¤.
 
 	Point point; // has - a
 

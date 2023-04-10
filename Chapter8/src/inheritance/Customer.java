@@ -2,29 +2,38 @@ package inheritance;
 
 public class Customer {
 
-	// protected´Â ´Ù¸¥ ÆĞÅ°Áö¿¡¼­ »ó¼Ó¹Ş¾Æµµ »ç¿ëÇÒ ¼ö ÀÖ´Ù.
+	// protectedëŠ” ë‹¤ë¥¸ íŒ¨í‚¤ì§€ì—ì„œ ìƒì†ë°›ì•„ë„ ì‚¬ìš©í•  ìˆ˜ ìˆë‹¤.
 	protected int customerID;
 	protected String customerName;
 	protected String customerGrade;
 	int bonusPoint;
-	double bonusRatio;
+	protected double bonusRatio;
 
 	public Customer() {
-
+		
+//		super();
+		//ì–˜ ìœ„ì˜ ìƒìœ„ í´ë˜ìŠ¤ê°€ ì—†ì–´ë³´ì—¬ë„ ëª¨ë“  ìë°” í´ë˜ìŠ¤ì˜ ìƒìœ„ í´ë˜ìŠ¤ëŠ” objectí´ë˜ìŠ¤ì´ê¸°ì— ê·¸ê²Œ í˜¸ì¶œë ê±°
 		customerGrade = "SILVER";
 		bonusRatio = 0.01;
+		
+		System.out.println("Customer() í˜¸ì¶œ");
 
 	};
-	/*
-	 * public Customer(int customerID, String customerName) {
-	 * 
-	 * this.customerID = customerID; this.customerName = customerName; customerGrade
-	 * = "SILVER"; bonusRatio = 0.01; };
-	 */
+	
+	 public Customer(int customerID, String customerName) {
+	 this.customerID = customerID; 
+	 this.customerName = customerName; 
+	 customerGrade = "SILVER"; 
+	 bonusRatio = 0.01; 
+	 
+	 System.out.println("Customer(int, String) í˜¸ì¶œ");
+	 
+	 };
+	 
 
 	/*
-	 * VIP µî±Ş Ãß°¡ÇÏ±â ! ´Ü°ñ°í°´¿¡ ´ëÇÑ ÇıÅÃÀÌ ÇÊ¿ä ÇÔ, ¿ì¼ö °í°´À» °ü¸® ÇÏ±â À§ÇØ ´ÙÀ½°ú °°Àº ÇıÅÃÀ» ÁÜ, °í°´ µî±Ş VIP, Á¦Ç°
-	 * ±¸¸Å ÇÒÀÎÀ²Àº 10%, º¸³Ê½º Æ÷ÀÎÆ®´Â 5%, ´ã´ç Àü¹® »ó´ã¿ø ¹èÁ¤
+	 * VIP ë“±ê¸‰ ì¶”ê°€í•˜ê¸° ! ë‹¨ê³¨ê³ ê°ì— ëŒ€í•œ í˜œíƒì´ í•„ìš” í•¨, ìš°ìˆ˜ ê³ ê°ì„ ê´€ë¦¬ í•˜ê¸° ìœ„í•´ ë‹¤ìŒê³¼ ê°™ì€ í˜œíƒì„ ì¤Œ, ê³ ê° ë“±ê¸‰ VIP, ì œí’ˆ
+	 * êµ¬ë§¤ í• ì¸ìœ¨ì€ 10%, ë³´ë„ˆìŠ¤ í¬ì¸íŠ¸ëŠ” 5%, ë‹´ë‹¹ ì „ë¬¸ ìƒë‹´ì› ë°°ì •
 	 */
 	public int calPrice(int price) {
 		bonusPoint += price * bonusRatio;
@@ -32,7 +41,7 @@ public class Customer {
 	};
 
 	public String showCustomerInfo() {
-		return customerName + " ´ÔÀÇ µî±ŞÀº " + customerGrade + " ÀÌ¸ç, º¸³Ê½º Æ÷ÀÎÆ®´Â " + bonusPoint + "Á¡ ÀÔ´Ï´Ù.";
+		return customerName + " ë‹˜ì˜ ë“±ê¸‰ì€ " + customerGrade + " ì´ë©°, ë³´ë„ˆìŠ¤ í¬ì¸íŠ¸ëŠ” " + bonusPoint + "ì  ì…ë‹ˆë‹¤.";
 	}
 
 	public int getCustomerID() {
