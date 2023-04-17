@@ -23,6 +23,9 @@ public class OverridingTest {
 		System.out.println("지불 금액은" + price + "이고, " + customerWho.showCustomerInfo());
 		//Customer class 의 price가 호출되는 것이 아니고,VipCustomer에서 overriding한 price 함수가 호출된다.
 		//Java에서 대부분의 함수는 이렇게 가상 메서드를 사용한다. 즉, 인스턴스에서 재정의한 함수가 호출되는 것!	
+		
+		Customer customerGold = new GoldCustomer();
+	
 	}
 
 }
