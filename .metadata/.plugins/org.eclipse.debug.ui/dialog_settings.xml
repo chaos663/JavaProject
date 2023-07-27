@@ -4,13 +4,25 @@
 		<item key="org.eclipse.debug.ui.DIALOG_SASH_WEIGHTS_1" value="237"/>
 		<item key="org.eclipse.debug.ui.DIALOG_SASH_WEIGHTS_2" value="762"/>
 		<item key="org.eclipse.debug.ui.EXPANDED_NODES" value=", org.eclipse.jdt.launching.localJavaApplication, "/>
-		<item key="DIALOG_WIDTH" value="1232"/>
-		<item key="DIALOG_HEIGHT" value="1053"/>
+		<item key="DIALOG_WIDTH" value="1231"/>
+		<item key="DIALOG_HEIGHT" value="1315"/>
 		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
 	</section>
 	<section name="org.eclipse.debug.ui.SCOPED_SAVE_SELECTION_DIALOG">
 		<item key="DIALOG_WIDTH" value="401"/>
 		<item key="DIALOG_HEIGHT" value="491"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
+	<section name="org.eclipse.debug.ui.LAUNCH_CONFIGURATION_PROPERTIES_DIALOG_SECTION">
+		<item key="DIALOG_WIDTH" value="941"/>
+		<item key="DIALOG_HEIGHT" value="1315"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
+	<section name="SHOW_COMMAND_LINE_DIALOG">
+		<item key="DIALOG_X_ORIGIN" value="387"/>
+		<item key="DIALOG_Y_ORIGIN" value="269"/>
+		<item key="DIALOG_WIDTH" value="456"/>
+		<item key="DIALOG_HEIGHT" value="582"/>
 		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
 	</section>
 </section>

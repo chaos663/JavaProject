@@ -16,4 +16,5 @@ org.eclipse.jdt.ui.PropertiesFileEditor.textfont=1|Courier New|14.0|0|WINDOWS|1|
 org.eclipse.jdt.ui.editors.textfont=1|Courier New|14.0|0|WINDOWS|1|-28|0|0|0|400|0|0|0|0|3|2|1|49|Courier New;
 org.eclipse.jface.textfont=1|Courier New|14.0|0|WINDOWS|1|-28|0|0|0|400|0|0|0|0|3|2|1|49|Courier New;
 org.eclipse.mylyn.wikitext.ui.presentation.textFont=1|Courier New|14.0|0|WINDOWS|1|-28|0|0|0|400|0|0|0|0|3|2|1|49|Courier New;
+org.eclipse.ui.commands=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<org.eclipse.ui.commands/>
 org.eclipse.wst.sse.ui.textfont=1|Courier New|14.0|0|WINDOWS|1|-28|0|0|0|400|0|0|0|0|3|2|1|49|Courier New;
