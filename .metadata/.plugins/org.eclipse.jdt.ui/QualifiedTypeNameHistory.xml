@@ -29,7 +29,6 @@
 <fullyQualifiedTypeName name="java.util.Calendar"/>
 <fullyQualifiedTypeName name="java.lang.Number"/>
 <fullyQualifiedTypeName name="array.BookArray"/>
-<fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="array.Book"/>
 <fullyQualifiedTypeName name="java.lang.Integer"/>
 <fullyQualifiedTypeName name="arraylist.Subject"/>
@@ -46,4 +45,9 @@
 <fullyQualifiedTypeName name="witharraylist.GoldCustomer"/>
 <fullyQualifiedTypeName name="witharraylist.VipCustomer"/>
 <fullyQualifiedTypeName name="witharraylist.Customer"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="abstractex.DeskTop"/>
+<fullyQualifiedTypeName name="abstractex.NoteBook"/>
+<fullyQualifiedTypeName name="abstractex.Computer"/>
+<fullyQualifiedTypeName name="abstractex.MyNoteBook"/>
 </qualifiedTypeNameHistroy>

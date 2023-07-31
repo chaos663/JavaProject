@@ -1,24 +1,7 @@
-INDEX VERSION 1.131+C:\Users\USER\eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
-2161297804.index
-3073087735.index
-72847613.index
-2166360768.index
-2338565033.index
-203860981.index
-147137995.index
-2988741170.index
-34329675.index
-988354311.index
-1383399549.index
+INDEX VERSION 1.131+C:\Users\ssk85\OneDrive\πŸ≈¡ »≠∏È\eclipse-workspace\JavaProject\.metadata\.plugins\org.eclipse.jdt.core
 1487658251.index
-3684820612.index
-234379596.index
-3356803226.index
-2018390229.index
-3121174920.index
-352409503.index
-2328428522.index
-2215203977.index
 799862173.index
-1748964058.index
-3338354504.index
+3356803226.index
+234379596.index
+3205754892.index
+988354311.index
