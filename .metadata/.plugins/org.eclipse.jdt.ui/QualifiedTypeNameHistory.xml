@@ -50,4 +50,10 @@
 <fullyQualifiedTypeName name="abstractex.NoteBook"/>
 <fullyQualifiedTypeName name="abstractex.Computer"/>
 <fullyQualifiedTypeName name="abstractex.MyNoteBook"/>
+<fullyQualifiedTypeName name="collection.Member"/>
+<fullyQualifiedTypeName name="java.lang.Comparable"/>
+<fullyQualifiedTypeName name="java.util.Comparator"/>
+<fullyQualifiedTypeName name="collection.treeset.TreeSetTest"/>
+<fullyQualifiedTypeName name="java.util.TreeSet"/>
+<fullyQualifiedTypeName name="collection.treeset.MyCompare"/>
 </qualifiedTypeNameHistroy>
